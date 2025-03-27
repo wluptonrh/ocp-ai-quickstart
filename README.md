@@ -270,6 +270,9 @@ In Red Hat OpenShift AI (RHOAI), a ```Data Science Project``` is the preferred w
     - **Cluster storage:** this is where you find a persistent storage for your workbench and one for the pipeline we will create later.
 
     - **Data Connections:** it contains all the information needed to connect with an existing S3 storage. We use it to store models and pipeline artifacts.
+        - NOTE: Data connections differ from cluster storage. By using PersistentVolumeClaim (PVC) objects, cluster storage provides persistent storage for workbenches and persists progress within workbenches.
+
+
 
     - **Permissions:** this is where you can manage the permissions for the project.
 
