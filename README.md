@@ -1,17 +1,20 @@
 # Outline
 
-### OpenShift Concepts for General Usage
+### OpenShift Concepts for General Usage (Part 1)
 - Tour of the OpenShift web console
 - Creating a Project
 - Deploying our first containerized application
 - Scaling our application
 - Attaching persistent stoage
 
-### Overview of OpenShift AI
+### Overview of OpenShift AI (Part 2)
 - Tour of the OpenShift AI Console
 - Inspecting a Workbench
 - Accessing our Workbench
 
+### Note: The following guide combines elements of two longer workshops. For reference you can find links the respective labs guides below
+- [Getting Started with OpenShift for Developers (Part 1)](https://openshift-labs.github.io/starter-guides-html/)
+- [OpenShift AI - Parasol Insurance AI Workshop (Part 2)](https://rh-aiservices-bu.github.io/parasol-insurance/modules/index.html)
 
 # Accessing Your Lab (Follow Closely)
 
@@ -230,9 +233,9 @@ In the following exercises, we will explore how OpenShift AI, an extension of th
 
 #  Access the OpenShift AI console
 
-
-put your screenshot here
-
+<p align="center" width="100%">
+    <img width="90%" src="images/img11.png">
+</p>
 
 # Data Science Projects
 
