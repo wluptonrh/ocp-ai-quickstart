@@ -228,7 +228,7 @@ We already have some understanding that containers allow us an easy way to packa
 - establish governance around datascience projects and resource utilization
 - dynamically allocate computing power
 
-In the following exercises, we will explore how OpenShift AI, an extension of the OpenShift platform, helps us achieve the above.
+In the following exercises, we will explore how OpenShift AI helps us address these needs at a high level.
 
 
 
