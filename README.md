@@ -220,6 +220,8 @@ This is outside the scope of today's learning. However if you would like to read
 
 ### Background
 
+So far, we have seen the Development and Adminstrative components of OpenShift. However as data scientists, we are less concerned with the infrastructure that our workloads run upon. This lesson will focus on how data scientists interact with OpenShift AI as an end user.
+
 We already have some understanding that containers allow us an easy way to package, distribute, and scale our applications. However in the realm of datascience, OpenShift/kubernetes provides us a convenient framework to:
 - define a standard development environment to perform data analysis
 - train, test, serve, and scale models in an automated fashion
@@ -234,7 +236,7 @@ In the following exercises, we will explore how OpenShift AI, an extension of th
 #  Access the OpenShift AI console
 
 <p align="center" width="100%">
-    <img width="90%" src="images/img11.png">
+    <img width="90%" src="images/rec8.gif">
 </p>
 
 # Data Science Projects
